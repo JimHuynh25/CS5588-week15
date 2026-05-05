@@ -1,0 +1,137 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+2 0 obj
+<< /Length 2563 >>
+stream
+BT
+/F1 11 Tf
+50 760 Td
+14 TL
+(SceneSound Studio Pro - Final Report) Tj
+T*
+(CS 5588 Week 15 Final Hands-On Challenge) Tj
+T*
+() Tj
+T*
+(Executive Summary) Tj
+T*
+(SceneSound Studio Pro is a Week 15 final multimodal AI system that builds directly on Week) Tj
+T*
+(13 controlled animal-care image generation and Week 14 SceneSound audio generation. The) Tj
+T*
+(final system creates image prompts, soundtrack prompts, SFX cue sheets, narration scripts,) Tj
+T*
+(responsible-AI reviews, and evaluation metrics from one structured scenario.) Tj
+T*
+() Tj
+T*
+(Technical Approach) Tj
+T*
+(The pipeline accepts animal, condition, environment, mood, duration, and audience inputs. It) Tj
+T*
+(normalizes the inputs, creates image-generation prompts, creates music prompts, plans sound) Tj
+T*
+(effects, writes a voice-ready narration, checks safety issues, and reports prompt alignment,) Tj
+T*
+(realism, diversity, latency, safety flags, and cue counts.) Tj
+T*
+() Tj
+T*
+(Experiments and Evaluation) Tj
+T*
+(The evaluation compares the Week 14 audio-only baseline against the Week 15 multimodal final) Tj
+T*
+(system. Metrics include prompt alignment, multimodal quality, realism, diversity, latency,) Tj
+T*
+(safety flags, and SFX cue coverage. This makes progress measurable instead of only visual.) Tj
+T*
+() Tj
+T*
+(Business Value) Tj
+T*
+(Target users include veterinary educators, animal shelters, pet-care creators, instructors,) Tj
+T*
+(and small marketing teams. The product reduces production time for educational media by) Tj
+T*
+(combining visual direction, soundtrack planning, SFX, narration, and safety review in one) Tj
+T*
+(workflow.) Tj
+T*
+() Tj
+T*
+(Responsible AI) Tj
+T*
+(The project addresses graphic medical content, misleading veterinary advice, copyright risks) Tj
+T*
+(in music generation, and voice cloning misuse. A production version should label AI outputs,) Tj
+T*
+(avoid diagnosis claims, require licensing checks, and restrict cloned voice use without) Tj
+T*
+(consent.) Tj
+T*
+() Tj
+T*
+(Lessons Learned) Tj
+T*
+(The main lesson is that foundation-model projects become stronger when separate model) Tj
+T*
+(capabilities are combined into a useful workflow. Week 15 improves engineering, UX,) Tj
+T*
+(evaluation, business framing, and safety while keeping the same multimodal creative) Tj
+T*
+(direction.) Tj
+T*
+() Tj
+T*
+(Conclusion) Tj
+T*
+(SceneSound Studio Pro is significantly better than Week 14 because it turns a sound prompt) Tj
+T*
+(prototype into a full presentation-ready multimodal AI production studio connected to both) Tj
+T*
+(Week 13 and Week 14.) Tj
+T*
+ET
+endstream
+endobj
+3 0 obj
+<< /Type /Page /Parent 6 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R >> >> /Contents 2 0 R >>
+endobj
+4 0 obj
+<< /Length 40 >>
+stream
+BT
+/F1 11 Tf
+50 760 Td
+14 TL
+() Tj
+T*
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 6 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Type /Pages /Kids [3 0 R 5 0 R] /Count 2 >>
+endobj
+7 0 obj
+<< /Type /Catalog /Pages 6 0 R >>
+endobj
+xref
+0 8
+0000000000 65535 f 
+0000000009 00000 n 
+0000000079 00000 n 
+0000002694 00000 n 
+0000002820 00000 n 
+0000002910 00000 n 
+0000003036 00000 n 
+0000003099 00000 n 
+trailer
+<< /Size 8 /Root 7 0 R >>
+startxref
+3148
+%%EOF
